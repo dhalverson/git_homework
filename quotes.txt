@@ -1,0 +1,5 @@
+"What's in the box?"
+
+New text goes here
+
+We are learning about git and github
